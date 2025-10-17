@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sebastian Agudelo
+# Hey 👋 I’m Sebastian Agudelo, passionate about creating meaningful digital experiences
 
 ### 🚀 Tech Lead | Fullstack Developer | Cloud Enthusiast  
 
