@@ -11,9 +11,6 @@ Focused on building scalable, resilient, and impactful software solutions 🌎
 
 ![Profile views](https://komarev.com/ghpvc/?username=sebastiansz1992&color=blue)
 
-### 🏆 GitHub Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=SebastianAgudelo&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 💡 About Me
