@@ -35,12 +35,6 @@ Focused on building scalable, resilient, and impactful software solutions 🌎
 
 ---
 
-### 📊 GitHub Stats
-![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianAgudelo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianAgudelo&layout=compact&theme=tokyonight)
-
----
-
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-agudelo-marin/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sebastiansz92/)
